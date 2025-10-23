@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Bonjour, je suis SidiBob !
 
-<!--
-**SidiBob/SidiBob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ingénieur en informatique** passionné par l’IoT, la sécurité et les solutions pour la ville intelligente.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 À propos de moi
+
+- 🛠️ Spécialisé dans le développement de cartes et systèmes embarqués (Arduino, ESP, STM32)
+- 🏙️ Engagé pour l’innovation dans les villes intelligentes et la cybersécurité
+- 👨‍💻 J’aime transformer des idées en solutions concrètes grâce aux technologies connectées
+
+---
+
+## 💡 Compétences techniques
+
+- **Langages** : C, C++, React, Springboot
+- **Outils & Frameworks** : STM32CUBEIDE, ESP IDF, Arduino IDE
+- **Expertise** : Développement embarqué, intégration IoT, sécurité, applications web et backend
+
+---
+
+## 🌱 En veille constante
+
+Toujours à la recherche de nouveaux défis et passionné par les dernières avancées technologiques en IoT et Smart Cities.
+
+---
+
+> “Construire aujourd’hui la ville intelligente de demain, plus sûre et plus connectée.”
+
+---
+
+Merci de visiter mon profil ! 🚦🔒🌐
