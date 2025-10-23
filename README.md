@@ -12,7 +12,7 @@
 
 ---
 
-## 💡 Compétences techniques
+## 💡 Compétences techniques principales
 
 - **Langages** : C, C++, React, Springboot
 - **Outils & Frameworks** : STM32CUBEIDE, ESP IDF, Arduino IDE
@@ -24,10 +24,6 @@
 
 Toujours à la recherche de nouveaux défis et passionné par les dernières avancées technologiques en IoT et Smart Cities.
 
----
 
-> “Construire aujourd’hui la ville intelligente de demain, plus sûre et plus connectée.”
-
----
 
 Merci de visiter mon profil ! 🚦🔒🌐
